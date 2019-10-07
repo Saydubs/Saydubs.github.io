@@ -4,4 +4,4 @@
  
 Здесь будут мои сайты:
 
-[Первый сверстанный макет из .psd](https://saydubs.github.io/Gipsolit/) - Первый макет (LESS,Bootstrap,html,CSS,GoogleMaps)
+[Гипсолит](https://saydubs.github.io/Gipsolit/) - Первый сверстанный макет из .psd (LESS,Bootstrap,html,CSS,GoogleMaps)
