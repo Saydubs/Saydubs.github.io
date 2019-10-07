@@ -1,4 +1,6 @@
-# Сергей Дубовик  [Vk](https://vk.com/sergey_dubovick/) [Inst](https://www.instagram.com/saydu_/)
+# Всем привет, меня зовут Сергей Дубовик. Я занимаюсь версткой сайтов. Также изучаю php, mysql  [Vk](https://vk.com/sergey_dubovick/) [Inst](https://www.instagram.com/saydu_/)
+ 
+ Использую Html,Css,Bootstrap,pixelperfect,LESS
  
 Здесь будут мои сайты:
 
