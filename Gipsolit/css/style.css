@@ -517,6 +517,10 @@ section {
 .tour-btn {
   padding: 1rem 1rem;
 }
+.tour h2 {
+  font-size: 4rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+}
 /* Дополнительные услуги */
 .upsell {
   background-color: #286b0a;
