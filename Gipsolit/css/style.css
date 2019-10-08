@@ -517,7 +517,7 @@ section {
 .tour-btn {
   padding: 1rem 1rem;
 }
-.tour h2 {
+.tour-title {
   font-size: 4rem;
   font-family: 'ProximaNova_bold', sans-serif;
 }
