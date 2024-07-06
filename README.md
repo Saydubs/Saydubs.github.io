@@ -2,4 +2,4 @@
  
  Html,Css,Bootstrap,pixelperfect,LESS
 
-[Гипсолит](https://saydubs.github.io/Gipsolit/) - (LESS,Bootstrap,html,CSS,GoogleMaps)
+[Gipsolit](https://saydubs.github.io/Gipsolit/) - (LESS,Bootstrap,html,CSS,GoogleMaps)
